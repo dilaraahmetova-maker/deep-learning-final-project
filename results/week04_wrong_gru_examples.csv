@@ -1,0 +1,6 @@
+text,true_label,lstm_prediction,gru_prediction,lstm_positive_probability,gru_positive_probability,true_sentiment,lstm_sentiment,gru_sentiment,gru_correct,lstm_correct
+user lol iphone lol i want the new one that came out today,0,1,1,0.6025667,0.50839865,negative,positive,positive,False,False
+user,0,1,1,0.6265869,0.5539639,negative,positive,positive,False,False
+didn't have enough room to say details of this week's events can be found at,1,0,0,0.40383023,0.30169338,positive,negative,negative,False,False
+sorry user user user feel asleep on yall last nite wouldn't happen in person doe lol what's good,0,1,1,0.72200453,0.8081701,negative,positive,positive,False,False
+user this is probably not the kind of help you were looking for but you don't look fat in anything ever,1,1,0,0.6436522,0.4361456,positive,positive,negative,False,True
