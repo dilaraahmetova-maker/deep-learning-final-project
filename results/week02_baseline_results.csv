@@ -1,0 +1,2 @@
+﻿model,test_accuracy,test_precision,test_recall,test_f1
+Logistic Regression + TF-IDF,0.79965,0.7947860304968027,0.8079,0.8012893627572527
